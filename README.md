@@ -1,4 +1,4 @@
-# İnanç Lisesi Geleksel Oyunlar Ansiklopedisi
+# İnanç Lisesi Geleneksel Oyunlar Ansiklopedisi
 1 Mayıs, Kamp, Bilim Sanat Haftası, vb zamanlarda oynanan oyunların nesilden nesile aktarımını sağlamak için bir liste.
 
 ## Hangi Oyunlar?
