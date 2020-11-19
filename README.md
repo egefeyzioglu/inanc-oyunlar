@@ -12,6 +12,9 @@ Varolan oyun sayfalarından birini örnek alarak, oyununun nasıl oynandığın�
 
 Sayfayı yazmayı bitirdikten sonra, lütfen bir [pull request oluşturun](https://github.com/egefeyzioglu/inanc-oyunlar/pulls). En kısa sürede varsa yorumlarımızı size iletip değişikliklerinizi ansiklopediye ekleyeceğiz. (Değişiklikleri herhangi bir sebep göstermeksizin ansiklopediye eklememe hakkımız saklıdır.)
 
+## Cevap ve Düzeltme Hakkı (Tekzip)
+Bu ansiklopedinin var olma amacı, okul öğrencileri tarafından oynanan oyunların depolanmasıdır ve gerçek kişilerle olan benzerlikler tamamiyle rastlantıdır. Ancak, eğer buna rağmen ansikplodedide sizin hakkınızda gerçeğe aykırı bir iddia bulunduğuna inanıyorsanız, lütfen [bu sayfada bir sorun raporu açarak](https://github.com/egefeyzioglu/inanc-oyunlar/issues/new) bunu bize bildirin. En kısa sürede raporunuzu inceleyeceğiz ve olası bir yanlış bilgiyi en kısa sürede düzelteceğiz.
+
 ## Sorumluluk Reddi
 Bu liste, TEV İnanç Türkeş Özel Lisesi ile hiçbir şekilde ilişkili değildir. Kullanıcılar, bu ansiklopedinin TEVİTÖL okul idaresi, çalışanları, öğretmenleri, öğrencileri veya Türk Eğitim Vakfı ile hiçbir ilişkisi olduğunu sanmamalı ve varsa yorum ve düşüncelerini [bu sayfada bir sorun raporu açarak](https://github.com/egefeyzioglu/inanc-oyunlar/issues/new) yazarlara bildirmelidir.
 
