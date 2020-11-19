@@ -6,7 +6,7 @@ Okul öğrencileri tarafından herhangi bir zamanda oynanmış oyunları bu ansi
 
 ## Nasıl Oyun Eklerim
 ### Oyun eklenmesini talep edebilirsiniz
-Yazarlardan yeni bir oyun sayfası oluşturulmasını talep etmek için, [bu sayfada bir sorun raporu açın](https://github.com/egefeyzioglu/inanc-oyunlar/issues/new) ve `yeni-sayfa` tagini sorun raporunuza ekleyin. Sayfanın oluşturulmasını kolaylaştırmak için, lütfen oyun hakkında bildiklerinizi açıklama kısmına yazın.
+Yazarlardan yeni bir oyun sayfası oluşturulmasını talep etmek için, [bu sayfada bir sorun raporu açın](https://github.com/egefeyzioglu/inanc-oyunlar/issues/new) ve `yeni-sayfa` label'ını sorun raporunuza ekleyin. Sayfanın oluşturulmasını kolaylaştırmak için, lütfen oyun hakkında bildiklerinizi açıklama kısmına yazın.
 
 ## Sorumluluk Reddi
 Bu liste, TEV İnanç Türkeş Özel Lisesi ile hiçbir şekilde ilişkili değildir. Kullanıcılar, bu ansiklopedinin TEVİTÖL okul idaresi, çalışanları, öğretmenleri, öğrencileri veya Türk Eğitim Vakfı ile hiçbir ilişkisi olduğunu sanmamalı ve varsa yorum ve düşüncelerini [bu sayfada bir sorun raporu açarak](https://github.com/egefeyzioglu/inanc-oyunlar/issues/new) yazarlara bildirmelidir.
