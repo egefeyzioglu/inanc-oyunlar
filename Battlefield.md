@@ -66,7 +66,7 @@ Kuzey/Güney sınırı: Amfinin başlangıcı ve Hasret'in önündeki çitler, k
 Doğu/Batı Sınırı: Prep Yatakhanesi/Prep Binası Hattı ve merdivenlerin başlangıcı<br/>
 Yukarı/Aşağı Sınırı: Yok
 
-Yukarıdaki base'lerin biri oyun sırasında herhangi bir sebepten uygun değilse,
+Yukarıdaki `base`lerin biri oyun sırasında herhangi bir sebepten uygun değilse,
 
 Pulak Yatakhanesinin Yanındaki Çimen Alan<br/>
 Kuzey/Güney sınırı: Duvar ve lojmanların önünün başlangıcı<br/>
