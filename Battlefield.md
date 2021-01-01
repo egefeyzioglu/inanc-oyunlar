@@ -39,7 +39,7 @@ Her oyuncu, 2 renk tarafından elenir ve 2 rengi eleyebilir. Aşağıdaki çembe
 Elenen oyuncular karşı takımın `base`ine gitmek için eleyen oyuncuyu takip etmek zorundalardır. Eleyen oyuncunun elenen oyuncuyu tutup çekmesi de elenen oyuncunun kaçması da kurallara aykırıdır. Eleyen oyuncu, olabildikçe kısa bir yoldan kendi `base`ine gitmelidir. Arada başka işler yapması konusunda bir yasak bulunmamakla birlikte, bu konuda dürüst davranmak her oyuncunun kendi iyi niyetine bırakılmıştır.
 
 ### Saklama Süresi
-Oyunun her bir turunun başında, takımlar kendi `piyon`larını `base`lerinde bir yere saklar. `Piyon`, saklandığı yerden, ortalama bir insan tarafından makul bir sürede çıkarılması mümkün olmalıdır.
+Oyunun her bir turunun başında, takımlar kendi `piyon`larını `base`lerinde bir yere saklar. `Piyon`un, saklandığı yerden, ortalama bir insan tarafından makul bir sürede çıkarılması mümkün olmalıdır.
 
 Saklama süresinin sonunda, `piyon` saklı bir konumda olmalıdır ve `piyon`a sürenin sonunda ilk dokunan oyuncu, karşı takımın Mor'larından biri olmalıdır. (Bu kural, takımların `piyon`larını kendi Mor'ları tarafından oyunun başında uzak bir yere götürmesini engellemek için konulmuştur.)
 
